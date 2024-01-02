@@ -2,6 +2,7 @@
 Central repository for all TRS-80 Model 1 projects on RetroStack
 
 - [TRS-80 Model I G E1](https://www.github.com/RetroStack/TRS-80-Model-I-G-E1) - Replica of the original board G revision
+- [Printable parts](https://www.github.com/RetroStack/TRS-80-Model-I-3D-Objects) - Recreated TRS-80 Model 1 parts printable on a 3D printer
 
 ## Support this Project
 
