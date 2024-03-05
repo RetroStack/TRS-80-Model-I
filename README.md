@@ -6,6 +6,11 @@ Central repository for all TRS-80 Model 1 projects on RetroStack
 - [Printable parts](https://www.github.com/RetroStack/TRS-80-Model-I-Parts) - Recreated TRS-80 Model 1 parts printable on a 3D printer
 - [XRX-III Mod](https://github.com/RetroStack/TRS-80-Model-I-XRX-III) - Simple hardware mod to fix cassette loading in earlier versions of the Level II ROM
 
+Related Projects
+- [Character Generator Adapter](https://github.com/RetroStack/MCM776x_CharGen_Adapter), replacing the original character generator IC
+  - Only use the low-profile DIP switch, solder jumpers, or detached configuration as the Model 1 case doesn't have much clearence and ICs are right in front of that chip.
+  - [ROM dumps](https://github.com/RetroStack/Character_Generator_ROMs) for the character generator can be found [here]([https://github.com/RetroStack/Character_Generator_ROMs](https://github.com/RetroStack/Character_Generator_ROMs/tree/main/TRS-80%20Model%201)).
+
 ## Support this Project
 
 RetroStack is passionate about exploring and preserving the legacy of older computer systems. My work involves creating detailed documentation and videos to share the knowledge. I am also dedicated to reviving these classic systems by reimplementing them and offering replacement parts at no cost. If you're keen on supporting this unique project, I invite you to visit my [Patreon page](https://www.patreon.com/RetroStack). Your support would be immensely valuable and greatly appreciated!
