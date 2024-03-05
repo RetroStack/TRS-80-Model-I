@@ -3,7 +3,7 @@ Central repository for all TRS-80 Model 1 projects on RetroStack
 
 - [TRS-80 Model I G E1](https://www.github.com/RetroStack/TRS-80-Model-I-G-E1) - Replica of the original board G revision
 - [ALPS Keyboard PCB](https://github.com/RetroStack/TRS-80-Model-I-Keyboard-ALPS) - Replica of the original ALPS keyboard PCB
-- [Printable parts](https://www.github.com/RetroStack/TRS-80-Model-I-Parts) - Recreated TRS-80 Model 1 parts printable on a 3D printer
+- [Replacement parts](https://www.github.com/RetroStack/TRS-80-Model-I-Parts) - Recreated TRS-80 Model 1 parts printable on a 3D printer or other ways
 - [XRX-III Mod](https://github.com/RetroStack/TRS-80-Model-I-XRX-III) - Simple hardware mod to fix cassette loading in earlier versions of the Level II ROM
 
 Related Projects
