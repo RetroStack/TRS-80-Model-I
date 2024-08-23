@@ -10,7 +10,7 @@ Central repository for all TRS-80 Model 1 projects on RetroStack
 - [System ROMs](https://github.com/RetroStack/TRS-80-Model-I-System-ROMs) - System ROM binaries and bundles (see the adapters below)
 
 Related Projects
-- [TRS-80 USB Keyboard Adapter](https://github.com/RetroStack/TRS-80-USB-Keyboard) - Adds the ability to connect an original TRS-80 keyboard to a USB host
+- [TRS-80 USB Keyboard Adapter](https://github.com/RetroStack/TRS-80-USB-Keyboard) - Provides the ability to connect an original TRS-80 keyboard to a USB host (e.g. Raspberry Pi for emulation)
 - [2332 & 2364 ROM Adapter](https://github.com/RetroStack/2332_2364-ROM_Adapter) - Adapter, replacing the original system ROMs
   - Only use the low-profile DIP switch, solder jumpers, or detached configuration as the Model 1 case doesn't have much clearence.
 - [Character Generator Adapter](https://github.com/RetroStack/MCM776x_CharGen_Adapter) - Adapter, replacing the original character generator IC
