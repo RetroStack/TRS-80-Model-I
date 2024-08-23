@@ -7,6 +7,7 @@ Central repository for all TRS-80 Model 1 projects on RetroStack
 - [Power Supply](https://github.com/RetroStack/TRS-80-Model-I-Power-Supply) - Power supply for the Model 1, exposing both AC and DV voltages
 - [Replacement parts](https://www.github.com/RetroStack/TRS-80-Model-I-Parts) - Recreated TRS-80 Model 1 parts printable on a 3D printer or other ways
 - [XRX-III Mod](https://github.com/RetroStack/TRS-80-Model-I-XRX-III) - Simple hardware mod to fix cassette loading in earlier versions of the Level II ROM
+- [System ROMs](https://github.com/RetroStack/TRS-80-Model-I-System-ROMs) - System ROM binaries and bundles
 
 Related Projects
 - [TRS-80 USB Keyboard Adapter](https://github.com/RetroStack/TRS-80-USB-Keyboard) - Adds the ability to connect an original TRS-80 keyboard to a USB host
