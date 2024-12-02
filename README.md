@@ -1,7 +1,11 @@
 # TRS-80-Model-I
 Central repository for all TRS-80 Model 1 projects on RetroStack
 
-- [TRS-80 Model I G E1](https://www.github.com/RetroStack/TRS-80-Model-I-G-E1) - Replica of the original board G revision
+- Main Board Revisions
+  - [Revision A](https://www.github.com/RetroStack/TRS-80-Model-I-A-E1) - Replica of the original board revision A
+  - [Revision D](https://www.github.com/RetroStack/TRS-80-Model-I-D-E1) - Replica of the original board revision D
+  - [Revision E](https://www.github.com/RetroStack/TRS-80-Model-I-E-E1) - Replica of the original board revision E
+  - [Revision G](https://www.github.com/RetroStack/TRS-80-Model-I-G-E1) - (**Preferred**) Replica of the original board revision G (with BOM & Gerbers)
 - [ALPS Keyboard PCB](https://github.com/RetroStack/TRS-80-Model-I-Keyboard-ALPS) - Replica of the original ALPS keyboard PCB
 - [MX Keyboard](https://github.com/RetroStack/TRS-80-Model-I-Keyboard-MX) - Replacement keyboard with MX keyswitches and keycaps
 - [Power Supply (New Design)](https://github.com/RetroStack/TRS-80-Model-I-Power-Supply-New) - Power supply for the Model 1, exposing both AC and DV voltages
