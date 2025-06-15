@@ -17,6 +17,7 @@ Central repository for all TRS-80 Model 1 projects on RetroStack
 - [System ROMs](https://github.com/RetroStack/TRS-80-Model-I-System-ROMs) - System ROM binaries and bundles (see the adapters below)
 
 Related Projects
+- [Mini Amplifier](https://github.com/RetroStack/Mini-Amplifier) - A mini amplifier often sold with a Model 1. Can be connected to the cassette port as speaker for some games.
 - [TRS-80 USB Keyboard Adapter](https://github.com/RetroStack/TRS-80-USB-Keyboard) - Provides the ability to connect an original TRS-80 keyboard to a USB host (e.g. Raspberry Pi for emulation)
 - [2332 & 2364 ROM Adapter](https://github.com/RetroStack/2332_2364-ROM_Adapter) - Adapter, replacing the original system ROMs
   - Only use the low-profile DIP switch, solder jumpers, or detached configuration as the Model 1 case doesn't have much clearence.
